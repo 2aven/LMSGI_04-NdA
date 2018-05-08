@@ -1,7 +1,7 @@
 # LMSGI - Portal de notícies
 ## Plana de notícies autoemplenable (HTML, CSS, Bootstrap, JS, jQuery, JSON, RSS)
 
-### [Notícies d'Avanç](https://rawgit.com/2aven/LMSGI_03-UdK/master/index.html)
+### [Notícies d'Avanç](https://rawgit.com/2aven/LMSGI_04-NdA/master/news.html)
 
 Planificació:
 1. [x] Diseny inicial de les pàgines i formats per pantalla o smartphone:
