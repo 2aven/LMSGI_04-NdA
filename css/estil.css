@@ -1,0 +1,74 @@
+body{
+  font-family: Arial;
+  background-color: #C4D7ED }
+.jumbotron{
+  background-color: #261D38;
+	background: linear-gradient(to right, #261D38, #ABC8E2);
+  text-shadow: -1px 1px #261D38;
+  text-align:center }
+.jumbotron h1{
+  color: #ABC8E2 }
+.jumbotron h3{
+  color: #375D81 }
+
+#pagina{
+  position:relative;
+  margin-bottom:114px }
+#portal-noticies{
+  background-color: #E5EBFF;
+  padding:12px }
+#publi-xs{
+  position: fixed;
+  bottom:0px;
+  height:90px;
+  width: 100% }
+
+.Img-noticia{
+  float: none;
+  margin: 0px }
+
+span.autor{
+  float:right }
+
+.row{
+  padding-left: 12px;
+  padding-right: 12px }
+
+a {
+  color: #375D81 }
+a:hover, a:visited{
+  color: #261D38 }
+
+button {
+  position: relative;
+  display: block;
+	text-align: center;
+	background-color: #C4D7ED;
+	color: #375D81;
+	font-weight: bold;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: 1px solid #261D38;
+	border-radius: 4px;
+	cursor: pointer }
+
+hr {
+  border: 1px solid #261D38 }
+
+@media screen and (min-width: 768px){
+  #pagina{
+    margin-bottom:24px }
+  #portal-noticies{
+    margin-right: 338px }
+  #publicitat{
+    position: absolute;
+    right:0px;
+    top:0px;
+    height:280px;
+    width:336px;}
+}
+@media screen and (min-width: 992px){
+  .Img-noticia{
+    float: right;
+    margin: 6px }
+}
