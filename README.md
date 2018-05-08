@@ -35,7 +35,7 @@ Planificació:
 1. [x] Reducció d'imatges per [Tinypng](https://tinypng.com/), estalviant un 58% de memòria.
 1. [x] Arxiu RSS
     - [x] Incloure RSS al menú
-    - [ ] Validació [RSS](http://www.feedvalidator.org)
+    - [x] Validació [RSS](https://validator.w3.org/feed/)
 1. [x] Opcions meta OpenGraph
 1. [x] Revisió ortogràfica i gramatical amb [SoftCatala](https://www.softcatala.org/corrector/).
    - [x] news.html
