@@ -35,7 +35,7 @@ Planificació:
 1. [x] Reducció d'imatges per [Tinypng](https://tinypng.com/), estalviant un 58% de memòria.
 1. [x] Arxiu RSS
     - [x] Incloure RSS al menú
-    - [ ] Validació [RSS](https://validator.w3.org/feed/)
+    - [x] Validació [RSS](https://validator.w3.org/feed/)
 1. [x] Opcions meta OpenGraph
 1. [x] Revisió ortogràfica i gramatical amb [SoftCatala](https://www.softcatala.org/corrector/).
    - [x] news.html
@@ -44,4 +44,8 @@ Planificació:
    - [x] 1.json
    - [x] 2.json
    - [x] rss.xml
-1. [x] Validació amb [W3 Validator](https://validator.w3.org/): Recomana considerar elements h2-h6, però l'article ja inclou el respectiu títol <heading>. No es mostren errors.
+1. [x] Validació amb [W3 Validator](https://validator.w3.org/): 
+   - [x] news.html Recomana considerar elements h2-h6 als apartats 'section' de cada article, però aquests ja inclouen el respectiu títol 'heading'. No es mostren errors.
+   - [x] news1.html
+   - [x] news2.html
+
