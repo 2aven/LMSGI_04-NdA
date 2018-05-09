@@ -17,7 +17,7 @@ body{
 #portal-noticies{
   background-color: #E5EBFF;
   padding:12px }
-#publi-xs{
+.publi-xs{
   position: fixed;
   bottom:0px;
   height:90px;
@@ -60,7 +60,7 @@ hr {
     margin-bottom:24px }
   #portal-noticies{
     margin-right: 338px }
-  #publicitat{
+  .publicitat{
     position: absolute;
     right:0px;
     top:0px;
